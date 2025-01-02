@@ -19,7 +19,7 @@ var x = setInterval(function () {
 
     if (distance < 0) {
         clearInterval(x);
-        document.getElementById("counter").innerHTML = "Event Over";
+        document.getElementById("counter").innerHTML = "<h1>Event Over</h1>";
     }
 }, 1000);
 
