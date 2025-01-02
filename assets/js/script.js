@@ -1,5 +1,5 @@
 // ==============CountDown timer==============
-var countDownDate = new Date("Jan 31, 2024 12:00:00").getTime();
+var countDownDate = new Date("Jan 31, 2026 12:00:00").getTime();
 
 var x = setInterval(function () {
 
